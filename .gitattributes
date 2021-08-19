@@ -1,0 +1,6 @@
+*.html linguist-vendored
+source_*.js linguist-vendored
+#파일명에 와일드카드 삽입 가능
+
+Htmls/* linguist-vendored
+#디렉터리 전체 선택 가능
