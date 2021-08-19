@@ -1,0 +1,63 @@
+C:\Users\eojee\source\repos\Cookie4\Cookie4\bin\Debug\Cookie4.exe.config
+C:\Users\eojee\source\repos\Cookie4\Cookie4\bin\Debug\Cookie4.exe
+C:\Users\eojee\source\repos\Cookie4\Cookie4\bin\Debug\Cookie4.pdb
+C:\Users\eojee\source\repos\Cookie4\Cookie4\obj\Debug\Cookie4.csprojAssemblyReference.cache
+C:\Users\eojee\source\repos\Cookie4\Cookie4\obj\Debug\Cookie4.Intro.resources
+C:\Users\eojee\source\repos\Cookie4\Cookie4\obj\Debug\Cookie4.Properties.Resources.resources
+C:\Users\eojee\source\repos\Cookie4\Cookie4\obj\Debug\Cookie4.csproj.GenerateResource.cache
+C:\Users\eojee\source\repos\Cookie4\Cookie4\obj\Debug\Cookie4.csproj.CoreCompileInputs.cache
+C:\Users\eojee\source\repos\Cookie4\Cookie4\obj\Debug\Cookie4.exe
+C:\Users\eojee\source\repos\Cookie4\Cookie4\obj\Debug\Cookie4.pdb
+C:\Users\eojee\source\repos\Cookie4\Cookie4\obj\Debug\Cookie4.Form1.resources
+C:\Users\eojee\source\repos\Cookie4 - 복사본\Cookie4\bin\Debug\Cookie4.exe.config
+C:\Users\eojee\source\repos\Cookie4 - 복사본\Cookie4\bin\Debug\Cookie4.exe
+C:\Users\eojee\source\repos\Cookie4 - 복사본\Cookie4\bin\Debug\Cookie4.pdb
+C:\Users\eojee\source\repos\Cookie4 - 복사본\Cookie4\obj\Debug\Cookie4.csprojAssemblyReference.cache
+C:\Users\eojee\source\repos\Cookie4 - 복사본\Cookie4\obj\Debug\Cookie4.Form1.resources
+C:\Users\eojee\source\repos\Cookie4 - 복사본\Cookie4\obj\Debug\Cookie4.Intro.resources
+C:\Users\eojee\source\repos\Cookie4 - 복사본\Cookie4\obj\Debug\Cookie4.Properties.Resources.resources
+C:\Users\eojee\source\repos\Cookie4 - 복사본\Cookie4\obj\Debug\Cookie4.csproj.GenerateResource.cache
+C:\Users\eojee\source\repos\Cookie4 - 복사본\Cookie4\obj\Debug\Cookie4.csproj.CoreCompileInputs.cache
+C:\Users\eojee\source\repos\Cookie4 - 복사본\Cookie4\obj\Debug\Cookie4.exe
+C:\Users\eojee\source\repos\Cookie4 - 복사본\Cookie4\obj\Debug\Cookie4.pdb
+C:\Users\eojee\source\repos\Cookie4 - 복사본\Cookie4\obj\Debug\Cookie4.GameStartScreen.resources
+C:\Users\eojee\source\repos\Cookie4 - 복사본 - 복사본\Cookie4\bin\Debug\Cookie4.exe.config
+C:\Users\eojee\source\repos\Cookie4 - 복사본 - 복사본\Cookie4\bin\Debug\Cookie4.exe
+C:\Users\eojee\source\repos\Cookie4 - 복사본 - 복사본\Cookie4\bin\Debug\Cookie4.pdb
+C:\Users\eojee\source\repos\Cookie4 - 복사본 - 복사본\Cookie4\obj\Debug\Cookie4.csprojAssemblyReference.cache
+C:\Users\eojee\source\repos\Cookie4 - 복사본 - 복사본\Cookie4\obj\Debug\Cookie4.Form1.resources
+C:\Users\eojee\source\repos\Cookie4 - 복사본 - 복사본\Cookie4\obj\Debug\Cookie4.GameStartScreen.resources
+C:\Users\eojee\source\repos\Cookie4 - 복사본 - 복사본\Cookie4\obj\Debug\Cookie4.Intro.resources
+C:\Users\eojee\source\repos\Cookie4 - 복사본 - 복사본\Cookie4\obj\Debug\Cookie4.Properties.Resources.resources
+C:\Users\eojee\source\repos\Cookie4 - 복사본 - 복사본\Cookie4\obj\Debug\Cookie4.csproj.GenerateResource.cache
+C:\Users\eojee\source\repos\Cookie4 - 복사본 - 복사본\Cookie4\obj\Debug\Cookie4.csproj.CoreCompileInputs.cache
+C:\Users\eojee\source\repos\Cookie4 - 복사본 - 복사본\Cookie4\obj\Debug\Cookie4.exe
+C:\Users\eojee\source\repos\Cookie4 - 복사본 - 복사본\Cookie4\obj\Debug\Cookie4.pdb
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\bin\Debug\Cookie4.exe.config
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\bin\Debug\Cookie4.exe
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\obj\Debug\Cookie4.csprojAssemblyReference.cache
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\obj\Debug\Cookie4.Form1.resources
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\obj\Debug\Cookie4.GameStartScreen.resources
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\obj\Debug\Cookie4.Intro.resources
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\obj\Debug\Cookie4.Properties.Resources.resources
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\obj\Debug\Cookie4.csproj.GenerateResource.cache
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\obj\Debug\Cookie4.csproj.CoreCompileInputs.cache
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\obj\Debug\Cookie4.exe
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\obj\Debug\Cookie4.pdb
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\bin\Debug\Cookie4.pdb
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\obj\Debug\Cookie4.Fin.resources
+C:\Users\eojee\Desktop\Cookie4 - client2\Cookie4\obj\Debug\Cookie4.GameOver.resources
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\bin\Debug\Cookie4.exe.config
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\bin\Debug\Cookie4.exe
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\bin\Debug\Cookie4.pdb
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\obj\Debug\Cookie4.csprojAssemblyReference.cache
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\obj\Debug\Cookie4.Fin.resources
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\obj\Debug\Cookie4.Form1.resources
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\obj\Debug\Cookie4.GameOver.resources
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\obj\Debug\Cookie4.GameStartScreen.resources
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\obj\Debug\Cookie4.Intro.resources
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\obj\Debug\Cookie4.Properties.Resources.resources
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\obj\Debug\Cookie4.csproj.GenerateResource.cache
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\obj\Debug\Cookie4.csproj.CoreCompileInputs.cache
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\obj\Debug\Cookie4.exe
+C:\Users\eojee\Desktop\CookieRun\Cookie4 - client\Cookie4\obj\Debug\Cookie4.pdb
