@@ -9,4 +9,7 @@
 * 맵 내에 랜덤으로 배치된 코인을 먹으면 점수가 올라가고, 점수가 200점이 되면 게임이 끝난다.
 
 # 2. Class Diagram
-![image](https://user-images.githubusercontent.com/76842423/155287353-ecc3ae09-a49a-457d-aab7-0d834eed8867.png)
+![image](https://user-images.githubusercontent.com/76842423/155287470-e1e47495-51d8-40e3-b889-5f6e0cb41834.png)
+
+
+
