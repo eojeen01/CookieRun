@@ -39,11 +39,26 @@ textBox에 닉네임을 입력하고 양쪽에 있는 버튼을 누르면 3가�
 
 # 5. 특징 기술
 
-1. Timer와 switch를 이용한 달리기 모션
+* Timer와 switch를 이용한 달리기 모션
   - Timer를 실행시켜서 num 변수에 100ms 당 1씩 더한다. 
   - num 변수가 0일 때, 1일 때, 2일 때, 3일 때 각각 다른 이미지를 pictureBox에 넣는다.
   - num 변수의 값이 3이 넘어가면 num 값을 다시 0으로 정해서 무한 반복될 수 있게 한다.
+  
+* ProgressBar
+  - progressBar 컨트롤은 진행 상황을 Bar에 표시하는 컨트롤이다.
+  - 기본적인 속성은 Maximum, Minimum, Step, Value 등이 있다.
+  - Step은 진행 간격을 의미하고, Maximum은 최댓값, minimum은 최솟값, Value는 현재 진행 값이다. 
+  - progressBar의 style은 Blocks, Continuous, Marquee로 3가지가 있다. 
+  - 이 프로젝트에서는 progressBar의 style로 continuous를 사용했고, 체력 progressBar의 경우, step은 체력이 줄어드는 만큼으로 설정했다. Value는 체력으로 설정했다. 
+  - 점수 ProgressBar의 경우, step은 점수가 늘어나는 만큼으로 설정했고, value는 점수로 설정했다. 
 
+* 폼 전환
+  - 폼을 전환하는 방법은 3가지가 있다.
+    + 현재 창을 그대로 유지하고 두번째 창을 열기
+    + 현재 창을 그대로 유지하고 모달 형식으로 두번째 창 열기
+    + 현재 창을 닫고 두번째 창을 열기
+  이 프로젝트에서는 세번째 방법을 이용했다. 
+  - Visible을 false로 설정해서 보이지 않게 하고 열릴 폼에서 현재 폼을 제어할 수 있게 한 후, 다음 폼이 닫힐 때 현재 폼이 같이 닫히도록 한다.
 
 
 
