@@ -11,7 +11,7 @@
 # 2. Class Diagram
 ![image](https://user-images.githubusercontent.com/76842423/155287470-e1e47495-51d8-40e3-b889-5f6e0cb41834.png)
 
-# 3. GUI와 서버
+# 3. Server GUI
 
 ![image](https://user-images.githubusercontent.com/76842423/155287956-c49a1cdf-aea2-48b0-8bec-17e1c86b243a.png)
 
@@ -19,6 +19,7 @@
 * 클라이언트가 접속하면 Server Connected라는 문구와 함께 접속한 인원 수와 클라이언트가 선택한 캐릭터 번호를 띄운다.
 * 클라이언트의 결과창이 닫히면 게임을 끝내는데 걸린 시간을 아이디와 함께 밀리 초로 나타낸다.
 
+# 4. Client GUI
 
 
 
