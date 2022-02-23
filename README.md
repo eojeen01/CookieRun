@@ -21,7 +21,21 @@
 
 # 4. Client GUI
 
+![image](https://user-images.githubusercontent.com/76842423/155288803-03d09785-7209-4817-8ea6-b74262d9eb89.png)
 
+PLAY 버튼을 클릭하면 MouseDown, MouseUp 이벤트 때문에 버튼이 작아졌다가 커지며 다음 폼을 연다. 기존 폼은 닫힌다.
+
+![image](https://user-images.githubusercontent.com/76842423/155288896-037503f4-5b4c-4559-99e9-81afef468683.png)
+
+textBox에 닉네임을 입력하고 양쪽에 있는 버튼을 누르면 3가지의 캐릭터가 보인다. Ready 버튼을 누르면 서버와 연결되고 다음 폼으로 넘어간다. 기존의 폼은 닫힌다.
+
+![image](https://user-images.githubusercontent.com/76842423/155288982-7e36bf2d-7170-4114-b8ad-434eb921ba8a.png)
+
+스페이스바를 누르면 캐릭터가 점프하고 아래 방향키를 누르면 슬라이드 동작을 한다. 캐릭터가 장애물에 닿으면 체력이 깎이고, 코인을 먹으면 점수가 오른다.
+
+![image](https://user-images.githubusercontent.com/76842423/155289070-511fd544-bde6-46f1-9074-b1daceb804a1.png)
+
+아이템과 플레이어 캐릭터가 닿으면 아이템의 Visible은 false로 변한다. 파란색 젤리는 속도를 느리게 하고, 핑크색 젤리는 체력을 증가시키고, 노란색 젤리는 속도를 빠르게 한다.
 
 
 
